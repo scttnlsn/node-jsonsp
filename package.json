@@ -9,7 +9,7 @@
   },
   "main": "./lib/jsonsp",
   "dependencies": {
-    "yajl": "https://github.com/jaredhanson/node-yajl/tarball/v0.6.1-build-fix"
+    "yajl": "https://github.com/scttnlsn/node-yajl/tarball/master"
   },
   "engines": { "node": ">= 0.4.0" },
   "keywords": ["json" ]
